@@ -1,6 +1,7 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="banner.jpg" width="100%" alt="Simra Faisal Banner" />
+  <!-- Adjusted width from 100% to 800 to prevent it from blowing up -->
+  <img src="banner.jpg" width="800" alt="Simra Faisal Banner" />
 </p>
 
 <!-- NEON BADGES & LINKS -->
@@ -18,12 +19,12 @@
 
 <table>
   <tr>
-    <td width="35%" align="center">
-      <!-- THIS WILL LOAD YOUR UPLOADED AVATAR -->
+    <td width="30%" align="center">
+      <!-- TIP: Make sure avatar.jpg has a transparent background or baked-in drop shadow for a 3D pop -->
       <img src="avatar.jpg" width="100%" alt="Simra Avatar" /><br/>
       <sub><i>"I'm crazy? You should see my code."</i></sub>
     </td>
-    <td width="65%">
+    <td width="70%">
       <h3>Applied AI & Computer Science @ Sapienza University of Rome 🇮🇹</h3>
       <p>
         I build autonomous AI agents, computer vision systems, and biometrics models. 
@@ -48,7 +49,6 @@
 
 <p align="center"><i>Tools pulled straight from the workbench.</i></p>
 
-<!-- DYNAMIC SKILL ICONS -->
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,r,postgres,js,ts,pytorch,react,tailwind,nodejs,docker,figma,git,linux&theme=dark" />
 </p>
@@ -80,6 +80,7 @@
       <p><code>⚡ AI-Research</code> · <code>🔥 Biometrics</code> · <code>✨ Internship</code></p>
     </td>
     <td width="40%" align="center">
+      <!-- TIP: Upload a 3D render or GIF as internship-ai.jpg for a Leonardo.ai vibe -->
       <img src="internship-ai.jpg" width="90%" alt="AI Internship Project" />
     </td>
   </tr>
@@ -98,6 +99,7 @@
       <p><code>👁️ Computer Vision</code> · <code>⚡ Real-Time</code> · <code>🎮 HCI</code></p>
     </td>
     <td width="40%" align="center">
+      <!-- TIP: Upload a 3D render or GIF as gesture-ai.jpg for a Leonardo.ai vibe -->
       <img src="gesture-ai.jpg" width="90%" alt="Computer Vision Project" />
     </td>
   </tr>
