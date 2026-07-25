@@ -136,3 +136,25 @@
 ---
 
 ## <div align="center"><code>[ battle records ]</code></div>
+
+```text
+🔬 BIOMETRICS DATA SCIENCE RESEARCH SCHOLAR
+   Bialystok, Poland | 2024-Present
+   ├─ Trained predictive models (classical ML & deep learning) for biometric matching
+   ├─ Developed quantitative evaluation pipelines & safety/privacy frameworks
+   └─ Research: Robust authentication, adversarial resilience, responsible AI
+
+🎓 EDUCATION
+   ├─ Sapienza University of Rome
+   │  Bachelor in Applied CS & AI (First Class Honours - 90%)
+   │  Expected Graduation: 2025
+   ├─ Alpha College
+   │  A-Levels: 5A* (Class Valedictorian & 100% Merit Scholar, 2022)
+
+📜 PROFESSIONAL CERTIFICATIONS
+   ├─ DeepLearning.AI — Machine Learning & Deep Learning Specialization (Andrew Ng)
+   ├─ DataCamp — Professional Python Data Associate
+   └─ Google — Professional Data Analytics Certificate
+
+🌐 LANGUAGES
+   └─ English (Fluent) · Urdu (Fluent) · Italian (Intermediate)
