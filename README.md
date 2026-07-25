@@ -1,7 +1,7 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <!-- Reduced width to 500 and added a decorative, dimensional border -->
-  <img src="banner.jpg" width="500" style="border: 4px solid #00F0FF;" alt="Simra Faisal Banner" />
+  <!-- Reduced width and added a dimensional border -->
+  <img src="banner.jpg" width="500" style="border: 4px solid #00F0FF; border-radius: 8px;" alt="Simra Faisal Banner" />
 </p>
 
 <!-- NEON BADGES & LINKS -->
@@ -17,10 +17,10 @@
 <!-- SECTION 1: ABOUT & PHILOSOPHY -->
 <h2 align="center"><code>[ the chaos engine ]</code></h2>
 
-<table>
+<table align="center">
   <tr>
     <td width="30%" align="center">
-      <!-- TIP: Make sure avatar.jpg has a transparent background or baked-in drop shadow for a 3D pop -->
+      <!-- Changed to .png for transparency support -->
       <img src="avatar.jpg" width="100%" alt="Simra Avatar" /><br/>
       <sub><i>"I'm crazy? You should see my code."</i></sub>
     </td>
@@ -53,11 +53,37 @@
   <img src="https://skillicons.dev/icons?i=py,cpp,r,postgres,js,ts,pytorch,react,tailwind,nodejs,docker,figma,git,linux&theme=dark" />
 </p>
 
-| Languages | AI, ML & Vision | Data & Analytics | Frameworks & Tools |
-| :--- | :--- | :--- | :--- |
-| `Python` `C++` | `PyTorch` `OpenCV` | `Pandas` `NumPy` | `LangChain` `CrewAI` |
-| `R` `SQL` | `MediaPipe` `Scikit-Learn` | `Seaborn` `Tableau` | `React` `Tailwind` |
-| `JavaScript` `TypeScript` | `LangGraph` `RAG` | `SQL` `Looker` | `Node.js` `REST APIs` |
+<!-- Centered HTML Table -->
+<table align="center">
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>AI, ML & Vision</th>
+      <th>Data & Analytics</th>
+      <th>Frameworks & Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><code>Python</code> <code>C++</code></td>
+      <td><code>PyTorch</code> <code>OpenCV</code></td>
+      <td><code>Pandas</code> <code>NumPy</code></td>
+      <td><code>LangChain</code> <code>CrewAI</code></td>
+    </tr>
+    <tr>
+      <td><code>R</code> <code>SQL</code></td>
+      <td><code>MediaPipe</code> <code>Scikit-Learn</code></td>
+      <td><code>Seaborn</code> <code>Tableau</code></td>
+      <td><code>React</code> <code>Tailwind</code></td>
+    </tr>
+    <tr>
+      <td><code>JavaScript</code> <code>TypeScript</code></td>
+      <td><code>LangGraph</code> <code>RAG</code></td>
+      <td><code>SQL</code> <code>Looker</code></td>
+      <td><code>Node.js</code> <code>REST APIs</code></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -66,9 +92,9 @@
 
 <p align="center"><i>Inventions shipped and live in the wild.</i></p>
 
-<table>
+<table align="center">
   <tr>
-    <td width="60%">
+    <td width="65%">
       <h3>🔬 AI Research Internship Project</h3>
       <p>
         [Insert a brief description of your internship project here. Describe the models you built, the problems you solved, and the overall scope of your research.]
@@ -79,13 +105,12 @@
       </ul>
       <p><code>⚡ AI-Research</code> · <code>🔥 Biometrics</code> · <code>✨ Internship</code></p>
     </td>
-    <td width="40%" align="center">
-      <!-- TIP: Upload a 3D render or GIF as internship-ai.jpg for a Leonardo.ai vibe -->
-      <img src="internship-ai.jpg" width="90%" alt="AI Internship Project" />
+    <td width="35%" align="center">
+      <img src="internship-ai.jpg" height="150" alt="AI Internship Project" />
     </td>
   </tr>
   <tr>
-    <td width="60%">
+    <td width="65%">
       <h3>✋ AI-Powered Hand Gesture Controller</h3>
       <p>
         A real-time computer vision application enabling contactless system operations. 
@@ -98,9 +123,9 @@
       </ul>
       <p><code>👁️ Computer Vision</code> · <code>⚡ Real-Time</code> · <code>🎮 HCI</code></p>
     </td>
-    <td width="40%" align="center">
-      <!-- TIP: Upload a 3D render or GIF as gesture-ai.jpg for a Leonardo.ai vibe -->
-      <img src="gesture-ai.jpg" width="90%" alt="Computer Vision Project" />
+    <td width="35%" align="center">
+      <!-- Last image height reduced to match instructions -->
+      <img src="gesture-ai.jpg" height="150" alt="Computer Vision Project" />
     </td>
   </tr>
 </table>
