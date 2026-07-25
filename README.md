@@ -1,95 +1,45 @@
 <!-- PREMIUM HEADER -->
-<div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=SIMRA+FAISAL;AI+RESEARCHER+%26+ENGINEER" alt="Typing SVG" />
-  </h1>
-  <p><i>🤖 Autonomous Systems • 👁️ Computer Vision • 🔐 Biometrics • 🛡️ AI Safety</i></p>
-</div>
-
-<!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="mailto:simrafaisal1111@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-simrafaisal1111@gmail.com-FF0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://simrafaisal.me">
-    <img src="https://img.shields.io/badge/PORTFOLIO-simrafaisal.me-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/SimraFaisal">
-    <img src="https://img.shields.io/badge/LINKEDIN-SimraFaisal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <strong style="font-size: 28px; letter-spacing: 2px;">SIMRA FAISAL</strong>
+  <br/>
+  <i style="font-size: 14px; color: #888; letter-spacing: 1px;">AI RESEARCHER • AUTONOMOUS SYSTEMS • COMPUTER VISION</i>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SimraFaisal2&color=00F0FF&style=flat-square" alt="Profile Views" />
+  <a href="mailto:simrafaisal1111@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/EMAIL-simrafaisal1111@gmail.com-000000?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://simrafaisal.me" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/PORTFOLIO-simrafaisal.me-000000?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/SimraFaisal" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LINKEDIN-SimraFaisal-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-## 📊 **Quick Facts**
+## 🎯 About
 
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <b>🎓 Education</b><br/>
-      Sapienza University<br/>
-      <code>Applied AI & CS</code>
-    </td>
-    <td align="center" width="25%">
-      <b>🔬 Specialization</b><br/>
-      Biometric Security<br/>
-      <code>Deep Learning</code>
-    </td>
-    <td align="center" width="25%">
-      <b>📍 Location</b><br/>
-      Bialystok, Poland<br/>
-      <code>Research Scholar</code>
-    </td>
-    <td align="center" width="25%">
-      <b>🎯 Focus</b><br/>
-      AI Safety & Auth<br/>
-      <code>Production Systems</code>
-    </td>
-  </tr>
-</table>
+Applied AI & Computer Science graduate from **Sapienza University of Rome** (First Class Honours). I architect **autonomous AI agents**, develop **computer vision systems**, and engineer **biometric authentication** solutions that merge mathematical precision with real-world impact.
+
+Currently a **Biometrics Data Science Research Scholar** in Poland, focusing on robust authentication systems and AI safety.
+
+**Mission:** High-precision algorithms + disruptive execution = transformative AI systems.
 
 ---
 
-## 🧠 **Core Expertise**
+## 🧠 Expertise
 
-<div align="center">
+| **AI & ML** | **Computer Vision** | **Data & Biometrics** | **Backend & Infrastructure** |
+|:---:|:---:|:---:|:---:|
+| PyTorch · TensorFlow | OpenCV · MediaPipe | PostgreSQL · Pandas | Docker · Node.js |
+| LangChain · CrewAI | YOLO · Transformers | Scikit-Learn · NumPy | REST APIs · SQL |
+| LangGraph · RAG | Hand Tracking · Pose Estimation | Statistical Analysis | Git · Linux |
 
-### 💻 **Programming Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white)
-
-### 🤖 **AI/ML & Computer Vision**
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=openai&logoColor=black)
-
-### 📊 **Data & Analytics**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🛠️ **Frameworks & Infrastructure**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logo=robot&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+**Tech Stack:** Python · C++ · R · TypeScript · JavaScript · React · Tailwind
 
 ---
 
