@@ -2,16 +2,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:D946EF,100:06B6D4&height=220&section=header&text=SIMRA%20FAISAL&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20Safety%20%7C%20Biometrics%20%7C%20Computer%20Vision&descAlignY=58&descSize=20&descColor=E9D5FF" alt="Simra Faisal" width="100%"/>
 </p>
-
-<!-- TYPING SUBTITLE -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=D946EF&center=true&vCenter=true&width=600&lines=Building+autonomous+AI+agents;Training+biometric+authentication+models;Shipping+computer+vision+systems;Researching+AI+safety+%26+robustness" alt="Typing SVG" />
 </p>
 
-<!-- SKILLS SHOWCASE -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,r,pytorch,tensorflow,opencv,react,ts,nodejs,postgres,docker,git&theme=dark&perline=12" alt="Core Skills" />
-</p>
 
 <!-- VISITOR COUNTER -->
 <p align="center">
