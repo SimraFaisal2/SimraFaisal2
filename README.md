@@ -1,6 +1,16 @@
-<!-- HERO BANNER -->
+<!-- 3D HERO TEXT -->
 <p align="center">
-  <img src="banner.jpg" width="500" style="border: 4px solid #00F0FF; border-radius: 8px;" alt="Simra Faisal Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F0FF,100:FF0055&height=180&section=header&text=SIMRA%20FAISAL&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=AI%20Safety%20%C2%B7%20Biometrics%20%C2%B7%20Computer%20Vision&descAlignY=62&descSize=18" alt="Simra Faisal" width="100%"/>
+</p>
+
+<!-- TYPING SUBTITLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+autonomous+AI+agents;Training+biometric+authentication+models;Shipping+computer+vision+systems;Researching+AI+safety+%26+robustness" alt="Typing SVG" />
+</p>
+
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SimraFaisal2&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <!-- PROFILE BADGES & SOCIALS -->
@@ -21,34 +31,34 @@
 
 ---
 
-## <div align="center"><code>[ the chaos engine ]</code></div>
+## <div align="center"><code>[ about me ]</code></div>
 
 <table align="center">
   <tr>
     <td width="30%" align="center">
       <img src="avatar.png" width="100%" alt="Simra Avatar" style="border-radius: 12px;" />
       <br/>
- <sub><i>"I'm crazy? You should see my code." </i></sub>
+      <sub><i>Building systems that see, verify, and decide.</i></sub>
     </td>
     <td width="70%">
- <h3> 🎓 Applied AI & Computer Science @ Sapienza University of Rome</h3>
+      <h3>🎓 Applied AI & Computer Science @ Sapienza University of Rome</h3>
       <p>
-        I build <b>autonomous AI agents</b>, <b>computer vision systems</b>, and <b>biometric models</b> that think fast and act faster.
-        <br />
-        <b>Bachelor's in Applied CS & AI (First Class Honours)</b> | <b>AI Research Scholar</b> in Poland
+        I build <b>autonomous AI agents</b>, <b>computer vision systems</b>, and <b>biometric authentication models</b> — designed for both performance and rigor.
+        <br/>
+        <b>BSc, Applied CS & AI (First Class Honours)</b> · <b>AI Research Scholar</b>, Poland
       </p>
       <p>
- <b> 🎯 Mission:</b> High-precision mathematical models meet disruptive execution. Clean algorithms under the hood, explosive impact on the surface.
+        <b>🎯 Mission:</b> Rigorous, well-evaluated models paired with clean, production-ready engineering.
       </p>
       <p>
- <b> 🔍 Focus Areas:</b>
-        <br />
-        ✨ AI Safety & Autonomous Systems | 🔐 Biometric Authentication | 👁️ Computer Vision
-        <br />
-        🤖 Multi-Agent Systems | 📊 Deep Learning Optimization
+        <b>🔍 Focus Areas:</b>
+        <br/>
+        ✨ AI Safety & Autonomous Systems &nbsp;|&nbsp; 🔐 Biometric Authentication &nbsp;|&nbsp; 👁️ Computer Vision
+        <br/>
+        🤖 Multi-Agent Systems &nbsp;|&nbsp; 📊 Deep Learning Optimization
       </p>
       <p>
- <b> 💼 Open to:</b> Research roles in AI safety, autonomous systems, and biometrics
+        <b>💼 Open to:</b> Research roles in AI safety, autonomous systems, and biometrics.
       </p>
     </td>
   </tr>
@@ -56,9 +66,7 @@
 
 ---
 
-## <div align="center"><code>[ the arsenal ]</code></div>
-
-<p align="center"><i>Tools pulled straight from the workbench.</i></p>
+## <div align="center"><code>[ tech stack ]</code></div>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,r,postgres,js,ts,pytorch,react,tailwind,nodejs,docker,figma,git,linux&theme=dark" alt="Tech Stack" />
@@ -71,9 +79,7 @@
 
 ---
 
-## <div align="center"><code>[ the sparks ]</code></div>
-
-<p align="center"><i>Inventions shipped and live in the wild.</i></p>
+## <div align="center"><code>[ featured projects ]</code></div>
 
 ### 🔬 Advanced Biometrics & Deep Learning Research
 
@@ -81,21 +87,21 @@
   <tr>
     <td width="65%">
       <p>
-        Conducted cutting-edge research in biometric matching and predictive modeling, developing robust deep learning pipelines for real-world biometric authentication systems. Engineered end-to-[...]
+        Conducted research in biometric matching and predictive modeling, building deep learning pipelines for real-world authentication systems — from data preprocessing through deployment-ready evaluation.
       </p>
       <ul>
-        <li><b>Stack:</b> Python · PyTorch · Scikit-Learn · PostgreSQL · TensorFlow</li>
+        <li><b>Stack:</b> Python · PyTorch · TensorFlow · Scikit-Learn · PostgreSQL</li>
         <li><b>Key Achievements:</b>
           <ul>
             <li>✅ Implemented 12+ evaluation metrics (AUC-ROC, FAR/FRR, EER)</li>
             <li>✅ Achieved 96.8% authentication accuracy</li>
-            <li>✅ Engineered privacy frameworks (differential privacy, adversarial robustness)</li>
-            <li>✅ Optimized inference latency by 35% through quantization & pruning</li>
+            <li>✅ Built privacy-preserving frameworks (differential privacy, adversarial robustness)</li>
+            <li>✅ Cut inference latency by 35% via quantization & pruning</li>
           </ul>
         </li>
-        <li><b>Location:</b> 📍 Bialystok, Poland (2024-Present)</li>
+        <li><b>Location:</b> 📍 Bialystok, Poland (2024–Present)</li>
       </ul>
-      <p><code>⚡ AI-Research</code> · <code>🔥 Biometrics</code> · <code>✨ Deep Learning</code> · <code>🔐 Security</code></p>
+      <p><code>⚡ AI Research</code> · <code>🔐 Biometrics</code> · <code>✨ Deep Learning</code> · <code>🛡️ Security</code></p>
     </td>
     <td width="35%" align="center">
       <img src="internship-ai.jpg" height="150" alt="AI Internship Project" style="border-radius: 8px;" />
@@ -111,14 +117,14 @@
   <tr>
     <td width="65%">
       <p>
-        Real-time computer vision application enabling contactless system control via hand gestures. Leverages OpenCV and Google MediaPipe to track 21 hand landmarks with optimized frame processi[...]
+        A real-time computer vision app for contactless system control via hand gestures. Uses OpenCV and Google MediaPipe to track 21 hand landmarks with optimized frame processing for low-latency response.
       </p>
       <ul>
         <li><b>Stack:</b> Python · OpenCV · MediaPipe · NumPy</li>
-        <li><b>Performance Metrics:</b>
+        <li><b>Performance:</b>
           <ul>
-            <li>⚡ <30ms per-frame latency for landmark detection</li>
-            <li>🎯 8+ gesture recognition types (thumbs up/down, peace sign, palm, fist, pinch)</li>
+            <li>⚡ &lt;30ms per-frame landmark detection latency</li>
+            <li>🎯 8+ recognized gestures (thumbs up/down, peace sign, palm, fist, pinch)</li>
             <li>⚙️ Configurable action mapping for multimedia & system control</li>
           </ul>
         </li>
@@ -135,26 +141,51 @@
 
 ---
 
-## <div align="center"><code>[ battle records ]</code></div>
+## <div align="center"><code>[ experience & education ]</code></div>
 
 ```text
 🔬 BIOMETRICS DATA SCIENCE RESEARCH SCHOLAR
-   Bialystok, Poland | 2024-Present
+   Bialystok, Poland | 2024–Present
    ├─ Trained predictive models (classical ML & deep learning) for biometric matching
-   ├─ Developed quantitative evaluation pipelines & safety/privacy frameworks
-   └─ Research: Robust authentication, adversarial resilience, responsible AI
+   ├─ Built quantitative evaluation pipelines and safety/privacy frameworks
+   └─ Research focus: robust authentication, adversarial resilience, responsible AI
 
 🎓 EDUCATION
    ├─ Sapienza University of Rome
-   │  Bachelor in Applied CS & AI (First Class Honours - 90%)
+   │  BSc, Applied CS & AI — First Class Honours (90%)
    │  Expected Graduation: 2025
-   ├─ Alpha College
-   │  A-Levels: 5A* (Class Valedictorian & 100% Merit Scholar, 2022)
+   └─ Alpha College
+      A-Levels: 5A* — Class Valedictorian & 100% Merit Scholar (2022)
 
-📜 PROFESSIONAL CERTIFICATIONS
+📜 CERTIFICATIONS
    ├─ DeepLearning.AI — Machine Learning & Deep Learning Specialization (Andrew Ng)
    ├─ DataCamp — Professional Python Data Associate
    └─ Google — Professional Data Analytics Certificate
 
 🌐 LANGUAGES
    └─ English (Fluent) · Urdu (Fluent) · Italian (Intermediate)
+```
+
+---
+
+## <div align="center"><code>[ github stats ]</code></div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SimraFaisal2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimraFaisal2&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimraFaisal2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SimraFaisal2&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+</p>
+
+<!-- CONTRIBUTION SNAKE -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SimraFaisal2/SimraFaisal2/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+</p>
+
+<p align="center"><sub>The snake animation above is generated by a GitHub Action — see setup note below if it's not yet running on your repo.</sub></p>
