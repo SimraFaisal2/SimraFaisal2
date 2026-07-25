@@ -2,34 +2,25 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:D946EF,100:06B6D4&height=220&section=header&text=SIMRA%20FAISAL&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=AI%20Safety%20%7C%20Biometrics%20%7C%20Computer%20Vision&descAlignY=58&descSize=20&descColor=E9D5FF" alt="Simra Faisal" width="100%" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=D946EF&center=true&vCenter=true&width=600&lines=Building+autonomous+AI+agents;Training+biometric+authentication+models;Shipping+computer+vision+systems;Researching+AI+safety+%26+robustness" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=D946EF&center=true&vCenter=true&width=600&lines=Building+autonomous+AI+agents;Training+biometrics+authentication+models;Shipping+computer+vision+systems;Researching+AI+safety+%26+robustness" alt="Typing SVG" />
 </div>
-<!-- VISITOR COUNTER -->
-<p align="center">
+
+<br/>
+
+<!-- STATS & SOCIALS -->
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=SimraFaisal2&label=Profile%20Views&color=00F0FF&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<!-- PROFILE BADGES & SOCIALS -->
-<p align="center">
-  <a href="mailto:simrafaisal1111@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://simrafaisal.me">
-    <img src="https://img.shields.io/badge/Portfolio-simrafaisal.me-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/SimraFaisal">
-    <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/SimraFaisal2">
-    <img src="https://img.shields.io/badge/GitHub-SimraFaisal2-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/followers/SimraFaisal2?label=Followers&style=for-the-badge&color=00F0FF&labelColor=111111" alt="Followers" />
-</p>
+  
+  <br/><br/>
+  
+  <a href="mailto:simrafaisal1111@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Gmail-FF0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://simrafaisal.me" style="text-decoration: none;"><img src="https://img.shields.io/badge/Portfolio-simrafaisal.me-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/SimraFaisal" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
+  <a href="https://github.com/SimraFaisal2" style="text-decoration: none;"><img src="https://img.shields.io/badge/GitHub-SimraFaisal2-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</div>
 
----
+
 
 ## <div align="center"><code>[ about me ]</code></div>
 
