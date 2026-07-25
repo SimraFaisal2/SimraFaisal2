@@ -171,17 +171,20 @@
 ## <div align="center"><code>[ github stats ]</code></div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimraFaisal2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=SimraFaisal2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimraFaisal2&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimraFaisal2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=SimraFaisal2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SimraFaisal2&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
+<!-- If trophies don't render, swap the URL above for one of these community mirrors:
+     https://github-profile-trophy-liard-delta.vercel.app/?username=SimraFaisal2&theme=tokyonight&no-frame=true&row=1&column=6
+     https://github-profile-trophy-fork-two.vercel.app/?username=SimraFaisal2&theme=tokyonight&no-frame=true&row=1&column=6 -->
 
 <!-- CONTRIBUTION SNAKE -->
 <p align="center">
