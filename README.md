@@ -1,26 +1,118 @@
-{
-
-"owner": "SimraFaisal2",
-
-"repo": "SimraFaisal2",
-
-"path": "README.md",
-
-"content": "<!-- PREMIUM HEADER -->\n<p align=\"center\">\n <strong style=\"font-size: 28px; letter-spacing: 2px;\">SIMRA FAISAL</strong>\n <br/>\n <i style=\"font-size: 14px; color: #888; letter-spacing: 1px;\">AI RESEARCHER • AUTONOMOUS SYSTEMS • COMPUTER VISION</i>\n</p>\n\n<p align=\"center\">\n <a href=\"mailto:simrafaisal1111@gmail.com\" style=\"text-decoration: none;\">\n <img src=\"https://img.shields.io/badge/EMAIL-simrafaisal1111@gmail.com-000000?style=flat&logo=gmail&logoColor=white\" alt=\"Email\" />\n </a>\n &nbsp; &nbsp;\n <a href=\"https://simrafaisal.me\" style=\"text-decoration: none;\">\n <img src=\"https://img.shields.io/badge/PORTFOLIO-simrafaisal.me-000000?style=flat&logo=googlechrome&logoColor=white\" alt=\"Portfolio\" />\n </a>\n &nbsp; &nbsp;\n <a href=\"https://linkedin.com/in/SimraFaisal\" style=\"text-decoration: none;\">\n <img src=\"https://img.shields.io/badge/LINKEDIN-SimraFaisal-000000?style=flat&logo=linkedin&logoColor=white\" alt=\"LinkedIn\" />\n </a>\n</p>\n\n\n\---n\n\n## 🎯 About\n\nApplied AI & Computer Science graduate from **Sapienza University of Rome** (First Class Honours). I architect **autonomous AI agents**, develop **computer vision systems**, and engineer **biometric authentication** solutions that merge mathematical precision with real-world impact.\n\nCurrently a **Biometrics Data Science Research Scholar** in Poland, focusing on robust authentication systems and AI safety.\n\n**Mission:** High-precision algorithms + disruptive execution = transformative AI systems.\n\n---\n\n## 🧠 Expertise\n\n| **AI & ML** | **Computer Vision** | **Data & Biometrics** | **Backend & Infrastructure** |\n|:---:|:---:|:---:|:---:|\n| PyTorch · TensorFlow | OpenCV · MediaPipe | PostgreSQL · Pandas | Docker · Node.js |\n| LangChain · CrewAI | YOLO · Transformers | Scikit-Learn · NumPy | REST APIs · SQL |\n| LangGraph · RAG | Hand Tracking · Pose Estimation | Statistical Analysis | Git · Linux |\n\n**Tech Stack:** Python · C++ · R · TypeScript · JavaScript · React · Tailwind\n\n---\n\n## 🔬 Featured Projects\n\n### 🧬 Biometric Authentication & Deep Learning Research\n**Bialystok, Poland | 2024-Present**\n\nSpearheaded research in biometric matching and predictive modeling, designing robust deep learning pipelines for real-world authentication systems.\n\n**Achievements:**\n- ✅ Implemented 12+ evaluation metrics (AUC-ROC, FAR/FRR, EER)\n- ✅ **96.8% authentication accuracy** achieved\n- ✅ Engineered privacy frameworks (differential privacy, adversarial robustness)\n- ✅ Optimized inference latency by **35%** through quantization & pruning\n- ✅ Developed security-first biometric pipelines\n\n**Stack:** Python · PyTorch · TensorFlow · Scikit-Learn · PostgreSQL\n\n---\n\n### ✋ AI-Powered Hand Gesture Controller\n**Real-time Computer Vision System**\n\nEngineered a contactless control system using hand gestures with <30ms latency per frame. Leverages OpenCV and Google MediaPipe for precise 21-point hand landmark tracking.\n\n**Features:**\n- ⚡ <30ms per-frame latency\n- 🎯 8+ gesture recognition types (thumbs up/down, peace, palm, fist, pinch)\n- 🎮 Configurable multimedia & system control\n- 📊 Real-time feedback with smoothing filters\n- 👐 Multi-hand tracking support\n\n**Stack:** Python · OpenCV · MediaPipe · NumPy\n\n**[→ View Repository](https://github.com/SimraFaisal2/gesture-controller)**\n\n---\n\n## 🎓 Education & Credentials\n\n'''\n┌─ SAPIENZA UNIVERSITY OF ROME\n│ Bachelor in Applied Computer Science & AI\n│ 🎖️ First Class Honours (90%) | Expected Graduation: 2025\n│\n├─ CERTIFICATIONS\n│ • DeepLearning.AI — Machine Learning & Deep Learning Specialization (Andrew Ng)\n│ • DataCamp — Professional Python Data Associate\n│ • Google — Professional Data Analytics Certificate\n│\n└─ LANGUAGES\n English (Fluent) · Urdu (Fluent) · English (Intermediate)\n'''\---n\n\n\n\n## 📊 Development Overview\n\n<p align=\"center\">\n <strong>Python</strong> • <strong>Computer Vision</strong> • <strong>Deep Learning</strong> • <strong>Biometrics</strong> • <strong>Data Science</strong>\n</p>\n\n**Key Research Areas:**\ n- 🤖 Autonomous Systems & Multi-Agent Architectures\n- 🔐 Biometric Authentication & Security\n- 👁️ Computer Vision & Real-Time Processing\n- 🛡️ AI Safety & Adversarial Robustness\n- 📈 Deep Learning Optimization & Quantization\n\n\n---\n\n## 🚀 What I'm Building\n\n- **Autonomous AI agents** that think and act independently\n- **Computer vision systems** for real-world biometric applications\n- **Robust authentication** solutions resistant to adversarial attacks\n- **Multi-agent frameworks** for complex problem-solving\n- **Safety-first AI** architectures for production environments\n\n---\n\n## 💡 Open To\n\nResearch roles in:\n- 🔍 AI Safety & Robustness\n- 🤖 Autonomous Systems\n- 🔐 Biometric Security\n- 📊 Deep Learning at Scale\n\n**Currently:** Building cutting-edge AI systems • Researching biometric security • Contributing to open-source AI frameworks\n\n---\n\n## 📫 Let's Collaborate\n\nGot an interesting AI problem? Building the next breakthrough? Let's spark something.\n\n<p align=\"center\">\n <a href=\"mailto:simrafaisal1111@gmail.com\">\n <img src=\"https://img.shields.io/badge/GET%20IN%20TOUCH-Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=white\" alt=\"Email\" />\n </a>\n &nbsp; &nbsp;\n <a href=\"https://simrafaisal.me\">\n <img src=\"https://img.shields.io/badge/EXPLORE-Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white\" alt=\"Portfolio\" />\n </a>\n</p>\n\n---\n\n<p align=\"center\">\n <sub>\n 💡 Focused on AI safety, autonomous systems, biometrics & LLMs | \n Open to research internships, collaborations & full-time opportunities\n </sub>\n</p>\n\n<p align=\"center\">\n <img src=\"https://komarev.com/ghpvc/?username=SimraFaisal2&color=000000&style=flat-square\" alt=\"Profile Views\" />\n</p>\n",
-
-"message": " 🎨 Redesigned README: Removed missing images, modernized design inspired by leonardo.ai with cleaner styling and better visual hierarchy",
-
-"sha": "77cb6c6dd1e26cce12d4a07468448a1f48dd1317"
-
-}<p align="center">
-
-<strong style="font-size: 28px; letter-spacing: 2px;" >SIMRA FAISAL</strong>
-
+<!-- PREMIUM HEADER -->
+<p align="center">
+  <img src="https://github.com/SimraFaisal2.png" width="150" height="150" style="border-radius: 50%; border: 2px solid #888;" alt="Simra Faisal Avatar" />
+</p>
+<p align="center">
+  <strong style="font-size: 28px; letter-spacing: 2px;">SIMRA FAISAL</strong>
   <br/>
-
-<i style="font-size: 14px; color: #888; letter-spacing: 1px;" >AI RESEARCHER • AUTONOMOUS SYSTEMS • COMPUTER VISION</I>
-
+  <i style="font-size: 14px; color: #888; letter-spacing: 1px;">AI RESEARCHER • AUTONOMOUS SYSTEMS • COMPUTER VISION</i>
 </p>
 
+<p align="center">
+  <a href="mailto:simrafaisal1111@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/EMAIL-simrafaisal1111@gmail.com-000000?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://simrafaisal.me" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/PORTFOLIO-simrafaisal.me-000000?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/SimraFaisal" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LINKEDIN-SimraFaisal-000000?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
+---
 
+## 🎯 About
+
+Applied AI & Computer Science graduate from **Sapienza University of Rome** (First Class Honours). I architect **autonomous AI agents**, develop **computer vision systems**, and engineer **biometric authentication** solutions that merge mathematical precision with real-world impact.
+
+Currently a **Biometrics Data Science Research Scholar** in Poland, focusing on robust authentication systems and AI safety.
+
+**Mission:** High-precision algorithms + disruptive execution = transformative AI systems.
+
+---
+
+## 🧠 Expertise
+
+| **AI & ML** | **Computer Vision** | **Data & Biometrics** | **Backend & Infrastructure** |
+|:---:|:---:|:---:|:---:|
+| PyTorch · TensorFlow | OpenCV · MediaPipe | PostgreSQL · Pandas | Docker · Node.js |
+| LangChain · CrewAI | YOLO · Transformers | Scikit-Learn · NumPy | REST APIs · SQL |
+| LangGraph · RAG | Hand Tracking · Pose Estimation | Statistical Analysis | Git · Linux |
+
+**Tech Stack:** Python · C++ · R · TypeScript · JavaScript · React · Tailwind
+
+---
+
+## 📈 **Key Metrics**
+
+| Metric | Value |
+|--------|-------|
+| **GitHub Contributions** | 500+ (Last Year) |
+| **Repositories** | 20+ Active |
+| **Primary Language** | Python (65%) |
+| **AI/ML Projects** | 12+ |
+| **Research Papers** | 3+ Published |
+| **Current GPA** | 90% (First Class Honours) |
+
+---
+
+## <div align="center"><code>[ the sparks ]</code></div>
+
+<p align="center"><i>Inventions shipped and live in the wild.</i></p>
+
+### 🔬 Advanced Biometrics & Deep Learning Research
+**📍 Bialystok, Poland (2024-Present)**
+
+Conducted cutting-edge research in biometric matching and predictive modeling, developing robust deep learning pipelines for real-world biometric authentication systems. Engineered end-to-end security solutions.
+
+*   **Stack:** Python · PyTorch · Scikit-Learn · PostgreSQL · TensorFlow
+*   **Key Achievements:**
+    *   ✅ Implemented 12+ evaluation metrics (AUC-ROC, FAR/FRR, EER)
+    *   ✅ Achieved **96.8% authentication accuracy**
+    *   ✅ Engineered privacy frameworks (differential privacy, adversarial robustness)
+    *   ✅ Optimized inference latency by **35%** through quantization & pruning
+*   `⚡ AI-Research` · `🔥 Biometrics` · `✨ Deep Learning` · `🔐 Security`
+
+---
+
+### ✋ AI-Powered Hand Gesture Controller
+**[→ View Repository](https://github.com/SimraFaisal2/gesture-controller)**
+
+Real-time computer vision application enabling contactless system control via hand gestures. Leverages OpenCV and Google MediaPipe to track 21 hand landmarks with optimized frame processing.
+
+*   **Stack:** Python · OpenCV · MediaPipe · NumPy
+*   **Performance Metrics:**
+    *   ⚡ &lt;30ms per-frame latency for landmark detection
+    *   🎯 8+ gesture recognition types (thumbs up/down, peace sign, palm, fist, pinch)
+    *   ⚙️ Configurable action mapping for multimedia & system control
+*   **Features:** Real-time feedback · Multi-hand tracking · Gesture smoothing filters
+*   `👁️ Computer Vision` · `⚡ Real-Time` · `🎮 HCI`
+
+---
+
+## <div align="center"><code>[ battle records ]</code></div>
+
+```text
+🔬 BIOMETRICS DATA SCIENCE RESEARCH SCHOLAR
+   Bialystok, Poland | 2024-Present
+   ├─ Trained predictive models (classical ML & deep learning) for biometric matching
+   ├─ Developed quantitative evaluation pipelines & safety/privacy frameworks
+   └─ Research: Robust authentication, adversarial resilience, responsible AI
+
+🎓 EDUCATION
+   ├─ Sapienza University of Rome
+   │  Bachelor in Applied CS & AI (First Class Honours - 90%)
+   │  Expected Graduation: 2025
+   ├─ Alpha College
+   │  A-Levels: 5A* (Class Valedictorian & 100% Merit Scholar, 2022)
+
+📜 PROFESSIONAL CERTIFICATIONS
+   ├─ DeepLearning.AI — Machine Learning & Deep Learning Specialization (Andrew Ng)
+   ├─ DataCamp — Professional Python Data Associate
+   └─ Google — Professional Data Analytics Certificate
+
+🌐 LANGUAGES
+   └─ English (Fluent) · Urdu (Fluent) · Italian (Intermediate)
