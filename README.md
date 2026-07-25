@@ -1,7 +1,7 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <!-- Adjusted width from 100% to 800 to prevent it from blowing up -->
-  <img src="banner.jpg" width="800" alt="Simra Faisal Banner" />
+  <!-- Reduced width to 500 and added a decorative, dimensional border -->
+  <img src="banner.jpg" width="500" style="border: 4px solid #00F0FF;" alt="Simra Faisal Banner" />
 </p>
 
 <!-- NEON BADGES & LINKS -->
