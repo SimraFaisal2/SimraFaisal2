@@ -14,8 +14,21 @@
 
 ---
 
+<!-- QUICK NAVIGATION -->
+<p align="center">
+  <strong>
+    <a href="#about--philosophy">About</a> •
+    <a href="#the-arsenal">Skills</a> •
+    <a href="#featured-projects">Projects</a> •
+    <a href="#research--certifications">Research</a> •
+    <a href="#lets-collaborate">Collaborate</a>
+  </strong>
+</p>
+
+---
+
 <!-- SECTION 1: ABOUT & PHILOSOPHY -->
-<h2 align="center"><code>[ the chaos engine ]</code></h2>
+<h2 align="center" id="about--philosophy"><code>[ the chaos engine ]</code></h2>
 
 <table align="center">
   <tr>
@@ -27,16 +40,19 @@
     <td width="70%">
       <h3>Applied AI & Computer Science @ Sapienza University of Rome 🇮🇹</h3>
       <p>
-        I build autonomous AI agents, computer vision systems, and biometrics models. 
+        I build autonomous AI agents, computer vision systems, and biometrics models that think fast and act faster. 
         Currently pursuing a Bachelor's in Applied CS & AI with First Class Honours at Sapienza University of Rome, 
         and conducting AI research in Poland.
       </p>
       <p>
-        <b>Engineering Philosophy:</b> High-precision mathematical models meets disruptive execution. Clean algorithms under the hood, explosive impact on the surface.
+        <b>Engineering Philosophy:</b> High-precision mathematical models meet disruptive execution. Clean algorithms under the hood, explosive impact on the surface.
       </p>
       <p>
         <code>Cyan</code> for cold logic. <code>Magenta</code> for raw innovation. 
         Together, they spark the system.
+      </p>
+      <p>
+        <b>Currently:</b> Developing autonomous AI agents | <b>Open to:</b> Research roles in AI safety & biometrics
       </p>
     </td>
   </tr>
@@ -45,7 +61,7 @@
 ---
 
 <!-- SECTION 2: TECH STACK -->
-<h2 align="center"><code>[ the arsenal ]</code></h2>
+<h2 align="center" id="the-arsenal"><code>[ the arsenal ]</code></h2>
 
 <p align="center"><i>Tools pulled straight from the workbench.</i></p>
 
@@ -88,7 +104,7 @@
 ---
 
 <!-- SECTION 3: FEATURED PROJECTS -->
-<h2 align="center"><code>[ the sparks ]</code></h2>
+<h2 align="center" id="featured-projects"><code>[ the sparks ]</code></h2>
 
 <p align="center"><i>Inventions shipped and live in the wild.</i></p>
 
@@ -97,13 +113,14 @@
     <td width="65%">
       <h3>🔬 AI Research Internship Project</h3>
       <p>
-        [Insert a brief description of your internship project here. Describe the models you built, the problems you solved, and the overall scope of your research.]
+        Advanced biometric matching and predictive modeling research focused on developing robust deep learning pipelines for real-world biometric authentication systems. Built comprehensive evaluation frameworks incorporating privacy-preserving techniques and safety protocols for responsible AI deployment.
       </p>
       <ul>
-        <li><b>Stack:</b> [e.g., Python · PyTorch · Scikit-Learn]</li>
-        <li><b>Impact:</b> [e.g., Improved model accuracy by 15% or deployed evaluating pipelines]</li>
+        <li><b>Stack:</b> Python · PyTorch · Scikit-Learn · PostgreSQL</li>
+        <li><b>Impact:</b> Developed quantitative evaluation pipelines; implemented privacy & safety frameworks for production AI systems</li>
+        <li><b>Location:</b> Bialystok, Poland</li>
       </ul>
-      <p><code>⚡ AI-Research</code> · <code>🔥 Biometrics</code> · <code>✨ Internship</code></p>
+      <p><code>⚡ AI-Research</code> · <code>🔥 Biometrics</code> · <code>✨ Deep Learning</code></p>
     </td>
     <td width="35%" align="center">
       <img src="internship-ai.jpg" height="150" alt="AI Internship Project" />
@@ -119,9 +136,11 @@
       </p>
       <ul>
         <li><b>Stack:</b> Python · OpenCV · MediaPipe</li>
-        <li><b>Capabilities:</b> Ultra-low latency landmark tracking & execution</li>
+        <li><b>Capabilities:</b> <30ms latency landmark tracking & gesture-to-action execution</li>
+        <li><b>Features:</b> Multi-gesture recognition, configurable action mapping, real-time feedback</li>
       </ul>
       <p><code>👁️ Computer Vision</code> · <code>⚡ Real-Time</code> · <code>🎮 HCI</code></p>
+      <p><a href="https://github.com/SimraFaisal2">→ View on GitHub</a></p>
     </td>
     <td width="35%" align="center">
       <!-- Last image height reduced to match instructions -->
@@ -133,12 +152,13 @@
 ---
 
 <!-- SECTION 4: RESEARCH & CERTIFICATIONS -->
-<h2 align="center"><code>[ battle records ]</code></h2>
+<h2 align="center" id="research--certifications"><code>[ battle records ]</code></h2>
 
 ```text
 🔬 Biometrics Data Science Research Scholar — Bialystok, Poland
-   └─ Trained predictive models across classical ML & deep learning for biometric matching.
-   └─ Developed quantitative evaluation pipelines & safety/privacy frameworks for AI deployment.
+   └─ Trained predictive models across classical ML & deep learning for biometric matching
+   └─ Developed quantitative evaluation pipelines & safety/privacy frameworks for AI deployment
+   └─ Research focus: Robust authentication systems & responsible AI
 
 📜 Professional Certifications
    ├─ DeepLearning.AI — Machine Learning & Deep Learning Specialization (Andrew Ng)
@@ -148,3 +168,23 @@
 🎓 Academic Merit
    ├─ Sapienza University of Rome — Bachelor in Applied CS & AI (First Class Honours - 90%)
    └─ Alpha College — A-Levels 5A* (Class Valedictorian & 100% Merit Scholar)
+```
+
+---
+
+<!-- SECTION 5: CALL TO ACTION -->
+<h2 align="center" id="lets-collaborate"><code>[ let's spark something ]</code></h2>
+
+<p align="center">
+  <b>Got an interesting problem? Let's collaborate.</b>
+</p>
+
+<p align="center">
+  <a href="mailto:simrafaisal1111@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-simrafaisal1111%40gmail.com-FF0055?style=flat-square&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://simrafaisal.me"><img src="https://img.shields.io/badge/Portfolio-simrafaisal.me-00F0FF?style=flat-square&logo=googlechrome&logoColor=black" /></a>
+</p>
+
+<p align="center">
+  <sub>💡 Always exploring AI safety, biometrics, and autonomous systems | Open to research internships & collaboration</sub>
+</p>
