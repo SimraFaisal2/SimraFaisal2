@@ -21,9 +21,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
   </a>
   <a href="https://github.com/SimraFaisal2">
-    <img src="https://img.shields.io/badge/GitHub-SimraFaisal2-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-SimraFaisal2-111110?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/SimraFaisal2?label=Followers&style=for-the-badge&color=00F0FF&labelColor=111111" alt="Followers" />
