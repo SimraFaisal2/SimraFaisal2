@@ -5,10 +5,18 @@
 
 <!-- PROFILE BADGES & SOCIALS -->
 <p align="center">
-  <a href="mailto:simrafaisal1111@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://simrafaisal.me"><img src="https://img.shields.io/badge/Portfolio-simrafaisal.me-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/SimraFaisal"><img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
-  <a href="https://github.com/SimraFaisal2"><img src="https://img.shields.io/badge/GitHub-SimraFaisal2-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:simrafaisal1111@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://simrafaisal.me">
+    <img src="https://img.shields.io/badge/Portfolio-simrafaisal.me-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
+  </a>
+  <a href="https://linkedin.com/in/SimraFaisal">
+    <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/SimraFaisal2">
+    <img src="https://img.shields.io/badge/GitHub-SimraFaisal2-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
 
 <!-- GITHUB STATS -->
@@ -24,14 +32,15 @@
 <table align="center">
   <tr>
     <td width="30%" align="center">
-      <img src="avatar.png" width="100%" alt="Simra Avatar" style="border-radius: 12px;" /><br/>
+      <img src="avatar.png" width="100%" alt="Simra Avatar" style="border-radius: 12px;" />
+      <br/>
       <sub><i>"I'm crazy? You should see my code."</i></sub>
     </td>
     <td width="70%">
       <h3>🎓 Applied AI & Computer Science @ Sapienza University of Rome</h3>
       <p>
-        I build <b>autonomous AI agents</b>, <b>computer vision systems</b>, and <b>biometric models</b> that think fast and act faster. 
-        <br/>
+        I build <b>autonomous AI agents</b>, <b>computer vision systems</b>, and <b>biometric models</b> that think fast and act faster.
+        <br />
         <b>Bachelor's in Applied CS & AI (First Class Honours)</b> | <b>AI Research Scholar</b> in Poland
       </p>
       <p>
@@ -39,9 +48,9 @@
       </p>
       <p>
         <b>🔍 Focus Areas:</b>
-        <br/>
+        <br />
         ✨ AI Safety & Autonomous Systems | 🔐 Biometric Authentication | 👁️ Computer Vision
-        <br/>
+        <br />
         🤖 Multi-Agent Systems | 📊 Deep Learning Optimization
       </p>
       <p>
@@ -78,7 +87,7 @@
   <tr>
     <td width="65%">
       <p>
-        Conducted cutting-edge research in biometric matching and predictive modeling, developing robust deep learning pipelines for real-world biometric authentication systems. Engineered end-to-end solutions achieving production-grade security.
+        Conducted cutting-edge research in biometric matching and predictive modeling, developing robust deep learning pipelines for real-world biometric authentication systems. Engineered end-to-end solutions with industry-grade performance metrics.
       </p>
       <ul>
         <li><b>Stack:</b> Python · PyTorch · Scikit-Learn · PostgreSQL · TensorFlow</li>
@@ -108,8 +117,7 @@
   <tr>
     <td width="65%">
       <p>
-        Real-time computer vision application enabling contactless system control via hand gestures. 
-        Leverages OpenCV and Google MediaPipe to track 21 hand landmarks with optimized frame processing achieving sub-30ms latency for responsive gesture mapping.
+        Real-time computer vision application enabling contactless system control via hand gestures. Leverages OpenCV and Google MediaPipe to track 21 hand landmarks with optimized frame processing achieving sub-30ms latency for responsive gesture mapping.
       </p>
       <ul>
         <li><b>Stack:</b> Python · OpenCV · MediaPipe · NumPy</li>
@@ -148,7 +156,7 @@
    │  Expected Graduation: 2025
    ├─ Alpha College
    │  A-Levels: 5A* (Class Valedictorian & 100% Merit Scholar, 2022)
-   
+
 📜 PROFESSIONAL CERTIFICATIONS
    ├─ DeepLearning.AI — Machine Learning & Deep Learning Specialization (Andrew Ng)
    ├─ DataCamp — Professional Python Data Associate
@@ -183,9 +191,13 @@
 </p>
 
 <p align="center">
-  <a href="mailto:simrafaisal1111@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-simrafaisal1111%40gmail.com-FF0055?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:simrafaisal1111@gmail.com">
+    <img src="https://img.shields.io/badge/Email%20Me-simrafaisal1111%40gmail.com-FF0055?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   &nbsp;
-  <a href="https://simrafaisal.me"><img src="https://img.shields.io/badge/Portfolio-simrafaisal.me-00F0FF?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+  <a href="https://simrafaisal.me">
+    <img src="https://img.shields.io/badge/Portfolio-simrafaisal.me-00F0FF?style=flat-square&logo=googlechrome&logoColor=black" alt="Portfolio" />
+  </a>
 </p>
 
 <p align="center">
