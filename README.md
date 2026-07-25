@@ -19,12 +19,6 @@
   </a>
 </p>
 
-<!-- GITHUB STATS -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SimraFaisal2&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimraFaisal2&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
 ---
 
 ## <div align="center"><code>[ the chaos engine ]</code></div>
@@ -171,15 +165,16 @@
 ## <div align="center"><code>[ activity snapshot ]</code></div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SimraFaisal2&theme=radical&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SimraFaisal2&theme=radical&hide_border=true&bg_color=0d1117" alt="Activity Graph" width="100%" />
 </div>
 
 ---
 
-## <div align="center"><code>[ top languages ]</code></div>
+## <div align="center"><code>[ github analytics ]</code></div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimraFaisal2&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SimraFaisal2&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimraFaisal2&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
 </div>
 
 ---
