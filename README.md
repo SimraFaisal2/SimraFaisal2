@@ -34,7 +34,7 @@
   <tr>
     <td width="30%" align="center">
       <!-- Changed to .png for transparency support -->
-      <img src="avatar.jpg" width="100%" alt="Simra Avatar" /><br/>
+      <img src="avatar.png" width="100%" alt="Simra Avatar" /><br/>
       <sub><i>"I'm crazy? You should see my code."</i></sub>
     </td>
     <td width="70%">
