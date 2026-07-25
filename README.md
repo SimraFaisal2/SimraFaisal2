@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x400/0d1117/00f0ff?text=%E2%9A%A1+SIMRA+FAISAL+//+HEX-LAB+%E2%9A%A1" width="100%" alt="Simra Faisal Banner" />
+  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1200&h=300&auto=format&fit=crop" width="100%" alt="Simra Faisal Banner" />
 </p>
 
 <!-- NEON BADGES & LINKS -->
@@ -19,7 +19,8 @@
 <table>
   <tr>
     <td width="35%" align="center">
-      <img src="https://via.placeholder.com/400x400/0d1117/ff0055?text=AVATAR:+GIRL+WITH+GLASSES+&+NEON" width="100%" /><br/>
+      <!-- THIS WILL LOAD YOUR UPLOADED AVATAR -->
+      <img src="avatar.png" width="100%" alt="Simra Avatar" /><br/>
       <sub><i>"I'm crazy? You should see my code."</i></sub>
     </td>
     <td width="65%">
@@ -81,7 +82,7 @@
       <p><code>⚡ AI-Agents</code> · <code>🔥 Multi-Agent</code> · <code>✨ Open-Source</code></p>
     </td>
     <td width="40%" align="center">
-      <img src="https://via.placeholder.com/300x200/0d1117/00f0ff?text=SCHOLARSHIP+AI" width="90%" />
+      <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=300&h=200&auto=format&fit=crop" width="90%" alt="AI Project" />
     </td>
   </tr>
   <tr>
@@ -99,7 +100,7 @@
       <p><code>👁️ Computer Vision</code> · <code>⚡ Real-Time</code> · <code>🎮 HCI</code></p>
     </td>
     <td width="40%" align="center">
-      <img src="https://via.placeholder.com/300x200/0d1117/ff0055?text=GESTURE+CONTROL" width="90%" />
+      <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=300&h=200&auto=format&fit=crop" width="90%" alt="Computer Vision Project" />
     </td>
   </tr>
 </table>
