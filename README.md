@@ -1,6 +1,6 @@
 <!-- HERO BANNER -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=1200&h=300&auto=format&fit=crop" width="100%" alt="Simra Faisal Banner" />
+  <img src="banner.jpg" width="100%" alt="Simra Faisal Banner" />
 </p>
 
 <!-- NEON BADGES & LINKS -->
@@ -20,7 +20,7 @@
   <tr>
     <td width="35%" align="center">
       <!-- THIS WILL LOAD YOUR UPLOADED AVATAR -->
-      <img src="avatar.png" width="100%" alt="Simra Avatar" /><br/>
+      <img src="avatar.jpg" width="100%" alt="Simra Avatar" /><br/>
       <sub><i>"I'm crazy? You should see my code."</i></sub>
     </td>
     <td width="65%">
@@ -69,20 +69,18 @@
 <table>
   <tr>
     <td width="60%">
-      <h3>🤖 Scholarship Matcher AI Agent</h3>
+      <h3>🔬 AI Research Internship Project</h3>
       <p>
-        An autonomous multi-agent "Research & Match" system automating scholarship discovery. 
-        Features a real-time "Deep Research" node using Gemini 3 Pro and Tavily API, paired with 
-        a weighted merit-scoring semantic analysis engine and Supabase persistent state layer.
+        [Insert a brief description of your internship project here. Describe the models you built, the problems you solved, and the overall scope of your research.]
       </p>
       <ul>
-        <li><b>Stack:</b> LangGraph · Gemini 3 Pro · Tavily API · Supabase</li>
-        <li><b>Impact:</b> Reduced manual scholarship search time by over 90%</li>
+        <li><b>Stack:</b> [e.g., Python · PyTorch · Scikit-Learn]</li>
+        <li><b>Impact:</b> [e.g., Improved model accuracy by 15% or deployed evaluating pipelines]</li>
       </ul>
-      <p><code>⚡ AI-Agents</code> · <code>🔥 Multi-Agent</code> · <code>✨ Open-Source</code></p>
+      <p><code>⚡ AI-Research</code> · <code>🔥 Biometrics</code> · <code>✨ Internship</code></p>
     </td>
     <td width="40%" align="center">
-      <img src="https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=300&h=200&auto=format&fit=crop" width="90%" alt="AI Project" />
+      <img src="internship-ai.jpg" width="90%" alt="AI Internship Project" />
     </td>
   </tr>
   <tr>
@@ -100,7 +98,7 @@
       <p><code>👁️ Computer Vision</code> · <code>⚡ Real-Time</code> · <code>🎮 HCI</code></p>
     </td>
     <td width="40%" align="center">
-      <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?q=80&w=300&h=200&auto=format&fit=crop" width="90%" alt="Computer Vision Project" />
+      <img src="gesture-ai.jpg" width="90%" alt="Computer Vision Project" />
     </td>
   </tr>
 </table>
