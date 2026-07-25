@@ -11,18 +11,7 @@
 
 <!-- PROFILE BADGES & SOCIALS -->
 <p align="center">
-  <a href="mailto:simrafaisal1111@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://simrafaisal.me">
-    <img src="https://img.shields.io/badge/Portfolio-simrafaisal.me-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/SimraFaisal">
-    <img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/SimraFaisal2">
-    <img src="https://img.shields.io/badge/GitHub-SimraFaisal2-111110?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <a href="mailto:simrafaisal1111@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;<a href="https://simrafaisal.me"><img src="https://img.shields.io/badge/Portfolio-simrafaisal.me-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>&nbsp;<a href="https://linkedin.com/in/SimraFaisal"><img src="https://img.shields.io/badge/LinkedIn-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>&nbsp;<a href="https://github.com/SimraFaisal2"><img src="https://img.shields.io/badge/GitHub-SimraFaisal2-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 
