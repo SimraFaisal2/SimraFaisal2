@@ -200,3 +200,19 @@
   <img src="https://raw.githubusercontent.com/SimraFaisal2/SimraFaisal2/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
 </p>
 
+---
+
+<div align="center">
+
+### <code>[ let's build something ]</code>
+
+Always open to a conversation about AI safety, biometrics, or a hard research problem.
+
+<a href="mailto:simrafaisal1111@gmail.com"><img src="https://img.shields.io/badge/Say_hello-FF0055?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://simrafaisal.me"><img src="https://img.shields.io/badge/See_my_work-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/SimraFaisal"><img src="https://img.shields.io/badge/Let's_connect-00F0FF?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn" /></a>
+
+<sub>Thanks for stopping by — if any of this was useful, a ⭐ on one of the repos above goes a long way.</sub>
+
+</div>
+
